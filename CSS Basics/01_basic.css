@@ -1,0 +1,9 @@
+  <style>
+    /* Internal CSS */
+    h2 {
+      color: green;
+    }
+  </style>
+
+  <!-- Inline CSS -->
+  <h1 style="color:red">Heading One</h1>
